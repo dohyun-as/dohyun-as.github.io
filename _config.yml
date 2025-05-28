@@ -22,13 +22,13 @@ repository               : "dohyun-as/dohyun-as.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Dohyun Kim"
   pronouns         : # example: "she/her"  
   bio              : Integrated M.S./Ph.D. student at Korea University.
   location         : "Seoul, Korea"
   employer         : "MIIL, Korea University"
-  uri              : "https://miil.korea.ac.kr"
+  uri              : #"https://miil.korea.ac.kr"
   email            : "a12s12@korea.ac.kr"
 
   # Academic websites
