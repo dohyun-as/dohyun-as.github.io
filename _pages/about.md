@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dohyun Kim"
+title: #"Dohyun Kim"
 author_profile: true
 ---
 
