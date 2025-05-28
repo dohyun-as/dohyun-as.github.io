@@ -34,9 +34,9 @@ My research interests center on multimodal and generative models, with a particu
 
 ## Publications
 
-- [**Random Conditioning for Diffusion Model Compression with Distillation**](https://arxiv.org/abs/2504.02011)  
+- [Random Conditioning for Diffusion Model Compression with Distillation](https://arxiv.org/abs/2504.02011)  
   * **Dohyun Kim**, * Sehwan Park, Geonhee Han, Seung Wook Kim, Paul Hongsuck Seo (* equal contribution)  
-  In **CVPR 2025** [[Project Page](https://dohyun-as.github.io/Random-Conditioning)]
+  In CVPR 2025 [[Project Page](https://dohyun-as.github.io/Random-Conditioning)]
   
 ---
 
