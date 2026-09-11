@@ -34,9 +34,16 @@ My research interests center on multimodal and generative models, with a particu
 
 ## Publications
 
+- Compositional SVG Generation via VLM-Driven Hierarchical Semantic Parsing  
+  \*Sehwan Park, \*Taehoon Kim, Geonhee Han, **Dohyun Kim**, Seung Wook Kim, Paul Hongsuck Seo (* equal contribution)  
+  In EMNLP 2026
+
+- [Direct Diffusion Score Preference Optimization via Stepwise Contrastive Policy-Pair Supervision](https://arxiv.org/abs/2512.23426)  
+  **Dohyun Kim**, Seungwoo Lyu, Seung Wook Kim, Paul Hongsuck Seo  
+  In ECCV 2026 [[Project Page](https://dohyun-as.github.io/DDSPO/)]
+
 - [Random Conditioning for Diffusion Model Compression with Distillation](https://arxiv.org/abs/2504.02011)  
   \***Dohyun Kim**, \*Sehwan Park, Geonhee Han, Seung Wook Kim, Paul Hongsuck Seo (* equal contribution)  
   In CVPR 2025 [[Project Page](https://dohyun-as.github.io/Random-Conditioning)]
   
 ---
-
