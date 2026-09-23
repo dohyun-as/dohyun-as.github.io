@@ -34,9 +34,13 @@ My research interests center on multimodal and generative models, with a particu
 
 ## Publications
 
-- Compositional SVG Generation via VLM-Driven Hierarchical Semantic Parsing  
+- [Diffusion Drafts, AR Verifies: Accelerating Document OCR with Self-Speculative Decoding](https://arxiv.org/abs/2609.26638)  
+  **Dohyun Kim**, Sungjun Han, Hyungguk Kim, Yusik Kim, Jamin Shin, Paul Hongsuck Seo, Hongjoon Ahn  
+  arXiv preprint, 2026 (GravityOCR)
+
+- [Compositional SVG Generation via VLM-Driven Hierarchical Semantic Parsing](https://arxiv.org/abs/2609.14657)  
   \*Sehwan Park, \*Taehoon Kim, Geonhee Han, **Dohyun Kim**, Seung Wook Kim, Paul Hongsuck Seo (* equal contribution)  
-  In EMNLP 2026
+  In EMNLP 2026 (Main) [[Project Page](https://ku-miil.github.io/semantic-svg-generation/)]
 
 - [Direct Diffusion Score Preference Optimization via Stepwise Contrastive Policy-Pair Supervision](https://arxiv.org/abs/2512.23426)  
   **Dohyun Kim**, Seungwoo Lyu, Seung Wook Kim, Paul Hongsuck Seo  
