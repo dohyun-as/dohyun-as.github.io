@@ -26,9 +26,12 @@ My research interests center on multimodal and generative models, with a particu
 
 ## Work Experience
 
+- **Intern**, Trillion Labs  
+  *May 2026 – Nov. 2026 (Expected)*
+
 - **Visiting Researcher**, University of Michigan, Ann Arbor, MI <br>
   Advisor: [Prof. Honglak Lee](https://web.eecs.umich.edu/~honglak/)  
-  *Jun. 2025 – Dec. 2025 (Expected)* 
+  *Jun. 2025 – Dec. 2025* 
 
 ---
 
