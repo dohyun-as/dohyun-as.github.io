@@ -26,7 +26,7 @@ My research interests center on multimodal and generative models, with a particu
 
 ## Work Experience
 
-- **Intern**, Trillion Labs  
+- **Research Intern**, Trillion Labs  
   *May 2026 – Nov. 2026 (Expected)*
 
 - **Visiting Researcher**, University of Michigan, Ann Arbor, MI <br>
