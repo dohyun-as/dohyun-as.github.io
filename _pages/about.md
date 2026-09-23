@@ -25,7 +25,7 @@ description: "Dohyun Kim — research on multimodal and generative models, diffu
           <h3><a href="https://arxiv.org/abs/2609.26638" target="_blank" rel="noopener noreferrer">Diffusion Drafts, AR Verifies: Accelerating Document OCR with Self-Speculative Decoding</a></h3>
           <p><strong>Dohyun Kim</strong>, Sungjun Han, Hyungguk Kim, Yusik Kim, Jamin Shin, Paul Hongsuck Seo, Hongjoon Ahn</p>
           <p class="dn-links"><a href="https://arxiv.org/abs/2609.26638" target="_blank" rel="noopener noreferrer">paper</a> / <a href="https://github.com/trillion-labs/GravityOCR" target="_blank" rel="noopener noreferrer">code</a></p>
-          <p class="dn-venue"><em>Technical Report, 2026</em></p>
+          <p class="dn-venue"><em>Technical Report, 2026 · Trillion Labs</em></p>
         </div>
       </article>
       <article class="dn-paper">
