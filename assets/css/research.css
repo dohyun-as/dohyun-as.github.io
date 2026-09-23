@@ -1,0 +1,40 @@
+html { color-scheme: light dark; }
+body { margin: 0; background: light-dark(#fff, #202224); }
+a:focus-visible { outline: 2px solid currentColor; outline-offset: 3px; }
+
+#dohyun-natural {--dn-paper: light-dark(#ffffff, #202224); --dn-text: light-dark(#242424, #e9e9e9); --dn-link: light-dark(#1764a0, #a5c9ed); --dn-muted: light-dark(#606060, #bdbdbd); background: var(--dn-paper); color: var(--dn-text); font: 15px/1.6 Arial, Helvetica, sans-serif;}
+#dohyun-natural * {box-sizing: border-box;}
+#dohyun-natural a {color: var(--dn-link); text-decoration: none;}
+#dohyun-natural a:hover {text-decoration: underline;}
+#dohyun-natural p, #dohyun-natural h1, #dohyun-natural h2, #dohyun-natural h3 {margin: 0;}
+#dohyun-natural strong {font-weight: 600;}
+#dohyun-natural .dn-page {max-width: 860px; margin: auto; padding: 50px 28px 55px;}
+#dohyun-natural .dn-intro {display: flex; align-items: center; gap: 40px; margin-bottom: 46px;}
+#dohyun-natural .dn-intro-text {min-width: 0; flex: 1;}
+#dohyun-natural h1 {font-size: 31px; font-weight: 400; line-height: 1.25; margin-bottom: 19px;}
+#dohyun-natural .dn-intro-text > p {margin-top: 13px;}
+#dohyun-natural .dn-portrait {width: 165px; height: auto; flex-shrink: 0;}
+#dohyun-natural .dn-contact {display: flex; flex-wrap: wrap; gap: 8px; font-size: 14px;}
+#dohyun-natural .dn-contact span {color: var(--dn-muted);}
+#dohyun-natural h2 {font-size: 23px; line-height: 1.3; font-weight: 400; margin-bottom: 25px;}
+#dohyun-natural .dn-paper {margin-bottom: 28px;}
+#dohyun-natural .dn-paper-text h3 {font-size: 15px; line-height: 1.48; font-weight: 600; margin-bottom: 5px;}
+#dohyun-natural .dn-paper-text p {font-size: 13px; line-height: 1.65;}
+#dohyun-natural .dn-paper-text .dn-links {margin-top: 5px; font-size: 13px;}
+#dohyun-natural .dn-paper-text .dn-venue {margin-top: 2px;}
+#dohyun-natural .dn-note {font-size: 12px; color: var(--dn-muted); margin-top: -6px;}
+#dohyun-natural .dn-experience, #dohyun-natural .dn-education {margin-top: 40px;}
+#dohyun-natural .dn-job {display: flex; justify-content: space-between; gap: 25px; margin-bottom: 20px; font-size: 14px;}
+#dohyun-natural .dn-job > p {color: var(--dn-muted); font-size: 13px;}
+@media (max-width: 630px) {
+  #dohyun-natural .dn-page {padding: 30px 24px 40px;}
+  #dohyun-natural .dn-intro {display: block; margin-bottom: 35px;}
+  #dohyun-natural .dn-portrait {width: 115px; margin-top: 22px;}
+  #dohyun-natural .dn-paper-text h3 {font-size: 14px;}
+  #dohyun-natural .dn-job {display: block;}
+  #dohyun-natural .dn-job > p {margin-top: 4px;}
+}
+@media (max-width: 420px) {
+  #dohyun-natural .dn-paper {display: block; margin-bottom: 32px;}
+}
+@media (pointer: coarse) {#dohyun-natural .dn-contact a, #dohyun-natural .dn-links a {display: inline-block; min-height: 44px; padding-top: 10px;}}
